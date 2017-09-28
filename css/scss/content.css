@@ -1,0 +1,14 @@
+.info-container {
+  background: linear-gradient(to bottom, #3a6186, #89253e);
+  color: #fff; }
+  .info-container__brand {
+    font-family: 'Germania One', sans-serif; }
+  .info-container__heading {
+    font-family: 'Germania One', sans-serif; }
+  .info-container__sub-heading {
+    font-family: 'Germania One', sans-serif; }
+
+.bg-image {
+  background-size: cover; }
+
+/*# sourceMappingURL=content.css.map */

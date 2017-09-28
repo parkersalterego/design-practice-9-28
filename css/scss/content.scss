@@ -1,0 +1,34 @@
+.info-container {
+    background:linear-gradient(to bottom, #3a6186, #89253e);
+    color:#fff;
+
+
+
+    &__brand {
+        font-family:'Germania One', sans-serif;
+
+    }
+    &__heading {
+        font-family:'Germania One', sans-serif;
+
+    }
+    &__sub-heading {
+        font-family:'Germania One', sans-serif;
+
+    }
+    &__paragraph-container {
+
+        &--text{
+
+        }
+    }
+}
+
+.bg-image {
+    background-size:cover;
+}
+
+@media screen and (max-width: 1500px) {
+
+}
+
